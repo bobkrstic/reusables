@@ -1,12 +1,8 @@
 import React from "react";
-import "./App.css";
+import TestComponent from "./ReusableComponents/TestComponent";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello</h1>
-    </div>
-  );
+  return <TestComponent />;
 }
 
 export default App;
