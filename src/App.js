@@ -1,8 +1,8 @@
 import React from "react";
 
 import Header from "./ReusableComponents/Header";
-import Footer from "./ReusableComponents/Footer";
 import MainContent from "./ReusableComponents/MainContent";
+import Footer from "./ReusableComponents/Footer";
 
 function App() {
   return (
