@@ -1,12 +1,12 @@
 import React from "react";
 
-function CheckBox() {
+function TodoItem() {
   return (
-    <div>
+    <div className="todo-item">
       <input type="checkbox" />
       <p>Placeholder text for checkbox</p>
     </div>
   );
 }
 
-export default CheckBox;
+export default TodoItem;
