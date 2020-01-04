@@ -31,14 +31,14 @@ function App() {
 
       <ContactCard
         name="Cat Two"
-        imgUrl="http://placekitten.com/400/200"
+        imgUrl="http://placekitten.com/400/300"
         phone="(999) 999-9999"
         email="someemail@test.com"
       />
 
       <ContactCard
         name="Cat Three"
-        imgUrl="http://placekitten.com/300/200"
+        imgUrl="http://placekitten.com/400/200"
         phone="(000) 999-9999"
         email="catemail@test.com"
       />
